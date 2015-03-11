@@ -1,0 +1,66 @@
+html, body, div{
+    margin: 0;
+    padding: 0;
+}
+
+html{ 
+     background:url('../images/codecafe.jpg') no-repeat center center;
+     min-height:100%;
+     background-size:cover;
+     font-size: 18px;
+} 
+
+body{
+    min-height: 100%;
+    font-size: 1em;
+    width: 100%;
+}
+
+img{
+    max-width: 100%;
+}
+
+#header{
+    color: #ffffff;
+}
+
+#logo{
+    font-size: 1.3em;
+    margin: 0 auto;
+}
+
+#menu{
+    font-size: 1.2em;
+    text-align: center;
+    background-color: green;
+}
+
+#mainBody{
+    color: #ffffff;
+    font-size: 2em;
+    text-align: center;
+}
+
+#mainBody span{
+    border: 1px solid red;
+    background-color: black;
+    padding: 1% 6% 1% 6%;
+    position: absolute;
+    top: 50%;
+    left: 37%;
+}
+
+#mainBody span a{
+    text-decoration: none;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    padding: 1.2% 0 1.2% 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+
