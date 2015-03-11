@@ -1,0 +1,190 @@
+OTHER
+http://codepen.io/
+http://codeschool.com
+http://teamtreehouse.com
+http://jsbooks.revolunet.com/
+http://it-ebooks.info/
+http://addyosmani.com/blog/
+
+
+
+/////////////////////////////////////////////////////////////////////////
+
+
+
+
+HTML RESOURCES
+********General********
+https://developer.mozilla.org/en-US/docs/Web/Guide/HTML
+
+
+
+
+********Basic********
+https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction
+
+Inline and Block level Elements:
+http://www.w3schools.com/html/html_blocks.asp
+https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements
+
+
+
+******Intermediate******
+Forms:
+https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms
+http://www.quirksmode.org/js/forms.html#stext
+http://www.javascript-coder.com/html-form/html-form-tutorial-p1.phtml
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement
+
+
+******Advanced*********
+
+
+/////////////////////////////////////////////////////////////////////////
+
+
+
+CSS RESOURCES
+********General********
+https://css-tricks.com/
+http://www.csszengarden.com/
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+
+
+********Basic*********
+https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started
+
+
+******Intermediate******
+Selectors:
+http://www.w3.org/TR/css3-selectors/
+http://www.w3schools.com/cssref/css_selectors.asp
+http://www.smashingmagazine.com/2009/08/17/taming-advanced-css-selectors/
+
+Margin Collapse:
+http://www.w3.org/TR/CSS21/box.html#collapsing-margins
+https://developer.mozilla.org/en-US/docs/Web/CSS/margin_collapsing
+http://stackoverflow.com/questions/9519841/why-does-this-css-margin-top-style-not-work
+
+Styling Forms:
+http://code.tiffbits.com/css3-form-styling-cheat-sheet/
+http://www.hongkiat.com/blog/creating-responsive-form-with-css3-html5/
+http://spyrestudios.com/22-useful-html5-css3-form-tutorials/
+http://www.thedesignpotato.com/30-useful-html5-and-css3-form-designs/2/
+
+Layout Techniques:
+Floating
+Positioning
+
+
+******Advanced*********
+CSS Sprites:
+https://css-tricks.com/css-sprites/
+http://www.smashingmagazine.com/2009/04/27/the-mystery-of-css-sprites-techniques-tools-and-tutorials/
+
+CSS Cascade, Inheritacne & Specificity:
+http://www.smashingmagazine.com/2010/11/02/the-important-css-declaration-how-and-when-to-use-it/
+http://www.smashingmagazine.com/2010/04/07/css-specificity-and-inheritance/
+http://www.smashingmagazine.com/2007/07/27/css-specificity-things-you-should-know/
+https://developer.mozilla.org/en-US/docs/Web/CSS/inheritance?redirectlocale=en-US&redirectslug=CSS%2Finheritance
+
+CSS Resets:
+https://github.com/necolas/normalize.css
+http://necolas.github.io/normalize.css/
+http://stackoverflow.com/questions/6867254/browsers-default-css-for-html-elements
+
+
+/////////////////////////////////////////////////////////////////////////
+
+
+
+JAVASCRIPT RESOURCES
+*******General********
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+http://www.ecma-international.org/publications/standards/Ecma-262.htm
+
+
+********Basic********
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+
+Variables:
+
+Data Types:
+
+Operators:
+
+Arrays:
+
+Loops:
+
+if/else Statement:
+
+Basics of Objects:
+
+JavaScript Built-In Objects:
+
+Function Declarations:
+
+Function Expressions:
+
+Anonymous Functions:
+
+IIFE - Immediately Invoked Function Expressions:
+
+Hoisting:
+
+Scope - Variable and Function:
+
+Execution Context:
+
+
+
+
+******Intermediate******
+Callback Functions:
+http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/
+
+Closures:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
+http://stackoverflow.com/questions/111102/how-do-javascript-closures-work
+
+Events:
+https://developer.mozilla.org/en-US/docs/Web/Events
+
+Module Pattern:
+
+Revealing Module Pattern:
+
+
+
+******Advanced*********
+
+
+
+
+
+
+
+/////////////////////////////////////////////////////////////////////////
+
+
+RESPONSIVE WEB DESIGN
+http://www.smashingmagazine.com/2013/07/22/simple-responsive-images-with-css-background-images/
+http://mediaqueri.es/
+http://www.webdesign.org/web-design-basics/design-principles/secrets-of-resposive-web-design.21388.html
+http://www.creativebloq.com/responsive-web-design/get-flexy-eight-steps-9122828
+http://screensiz.es/phone
+http://blog.teamtreehouse.com/modern-field-guide-responsive-web-design
+http://bradfrost.github.io/this-is-responsive/resources
+https://developers.google.com/web/fundamentals/layouts/rwd-fundamentals/
+https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag
+
+
+
+
+
+
+
+
+
+
