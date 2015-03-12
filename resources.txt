@@ -1,23 +1,17 @@
-OTHER
-http://codepen.io/
-http://codeschool.com
-http://teamtreehouse.com
-http://jsbooks.revolunet.com/
-http://it-ebooks.info/
-http://addyosmani.com/blog/
+The idea is that people will be guided on what they need to learn by asking the questions below.
+Following each question will be links that will help answer the questions.
 
 
 
 /////////////////////////////////////////////////////////////////////////
-
-
-
-
 HTML RESOURCES
 ********General********
 https://developer.mozilla.org/en-US/docs/Web/Guide/HTML
 https://developer.mozilla.org/en-US/docs/Web/HTML
 
+
+********Practice**********
+Where can I practice HTML?
 
 
 ********Basic********
@@ -40,14 +34,14 @@ http://www.w3.org/TR/html401/cover.html#minitoc
 
 
 
-
-
 ******Intermediate******
 Forms:
 https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms
 http://www.quirksmode.org/js/forms.html#stext
 http://www.javascript-coder.com/html-form/html-form-tutorial-p1.phtml
 https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement
+
+What are Parent/Child/Sibling Relationships?
 
 
 ******Advanced*********
@@ -60,10 +54,16 @@ What is HTML5Shiv and why use it?
 What is browser compatibility? 
 
 
+
+********Blogs & Other Reading********
+
+////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
 /////////////////////////////////////////////////////////////////////////
-
-
-
 CSS RESOURCES
 ********General********
 https://css-tricks.com/
@@ -71,13 +71,27 @@ http://www.csszengarden.com/
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
 
 
+********Practice**********
+Where can I practice CSS?
+
+
+
 ********Basic*********
 What is CSS?
 https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started
 
+What are CSS Rules?
+http://blueoceanview.hubpages.com/hub/Writing-CSS-Basics-of-CSS-Rules
+
+What is Normal Flow?
+http://blueoceanview.hubpages.com/hub/CSS-Page-Layout-Normal-Flow
+
+Where can I practice CSS?
+
+
 
 ******Intermediate******
-Selectors:
+More About CSS Selectors:
 http://www.w3.org/TR/css3-selectors/
 http://www.w3schools.com/cssref/css_selectors.asp
 http://www.smashingmagazine.com/2009/08/17/taming-advanced-css-selectors/
@@ -93,23 +107,66 @@ http://www.hongkiat.com/blog/creating-responsive-form-with-css3-html5/
 http://spyrestudios.com/22-useful-html5-css3-form-tutorials/
 http://www.thedesignpotato.com/30-useful-html5-and-css3-form-designs/2/
 
+
+***CSS Layout Techniques***
 What is CSS Layout?
 
-What is a Float Layout and How Does it Work?
+What is a Float Property for? 
+  - How Does Floating Work? 
+  - How Does a Floated Element Effect it's Surrounding Elements?
+  - What is Container Collapse?
+  - What is Clearing a Float and How do You do That?
+
 
 What is the Position Property For?
 
 How does Relative Positioning Work?
+  - How Does a Relative Positioned Element Effect it's Surrounding Elements?
 
 How does Absolute Positioning Work?
+   - How Does an Absolute Positioned Element Effect it's Surrounding Elements?
 
 How does Fixed Positioning Work?
+   - How Does a Fixed Positioned Element Effect it's Surrounding Elements?  
 
 How do you Center Text?
 
-How do you Center a Block Level Element?
+How do you center a Block Level Element?
 
-How do you Center an Inline Level Element?
+How do you center an Inline Level Element?
+
+How do you center <div>'s that are inside of another <div>?
+
+How do you make a image take up the entire browser window?
+
+How do you make an image take up only the background of a single element?
+
+What is a static website?
+
+What is a fluid website?
+
+
+RESPONSIVE WEB DESIGN
+What is responsive web design?
+
+What is a flexible grid?
+
+What are the formula's used to convert a static website into a responsive website?
+
+What is everything you need to do to make a website responsive?
+
+
+http://www.smashingmagazine.com/2013/07/22/simple-responsive-images-with-css-background-images/
+http://mediaqueri.es/
+http://www.webdesign.org/web-design-basics/design-principles/secrets-of-resposive-web-design.21388.html
+http://www.creativebloq.com/responsive-web-design/get-flexy-eight-steps-9122828
+http://screensiz.es/phone
+http://blog.teamtreehouse.com/modern-field-guide-responsive-web-design
+http://bradfrost.github.io/this-is-responsive/resources
+https://developers.google.com/web/fundamentals/layouts/rwd-fundamentals/
+https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag
+
+
 
 
 
@@ -129,15 +186,29 @@ https://github.com/necolas/normalize.css
 http://necolas.github.io/normalize.css/
 http://stackoverflow.com/questions/6867254/browsers-default-css-for-html-elements
 
+What are @media Queries?
+
+
+
+
+********Blogs & Other Reading********
 
 /////////////////////////////////////////////////////////////////////////
 
 
 
+
+
+/////////////////////////////////////////////////////////////////////////
 JAVASCRIPT RESOURCES
 *******General********
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
 http://www.ecma-international.org/publications/standards/Ecma-262.htm
+
+
+********Practice**********
+Where can I practice javaScript?
+
 
 
 ********Basic********
@@ -147,7 +218,7 @@ What are Variables?
 
 What are Data Types?
 
-What are Operators and How Do They Work??
+What are Operators and How Do They Work?
 
 What are Arrays and How Do They Work?
 
@@ -214,28 +285,100 @@ What is the Revealing Module Pattern?
 
 
 
+********Blogs & Other Reading********
+
+
+////////////////////////////////////////////////////////////////////////////
+
 
 
 
 
 /////////////////////////////////////////////////////////////////////////
+JQUERY RESOURCES
+What is jQuery?
 
 
-RESPONSIVE WEB DESIGN
-http://www.smashingmagazine.com/2013/07/22/simple-responsive-images-with-css-background-images/
-http://mediaqueri.es/
-http://www.webdesign.org/web-design-basics/design-principles/secrets-of-resposive-web-design.21388.html
-http://www.creativebloq.com/responsive-web-design/get-flexy-eight-steps-9122828
-http://screensiz.es/phone
-http://blog.teamtreehouse.com/modern-field-guide-responsive-web-design
-http://bradfrost.github.io/this-is-responsive/resources
-https://developers.google.com/web/fundamentals/layouts/rwd-fundamentals/
-https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag
+http://learn.jquery.com/
+http://jquery.com/
+http://api.jquery.com/
+https://jqueryui.com/
+http://www.jqueryrain.com/
 
 
 
+********Blogs & Other Reading********
+
+////////////////////////////////////////////////////////////////////////////
 
 
+
+
+
+
+////////////////////////////////////////////////////////////////////////////
+NODE.JS RESOURCES
+
+
+********Blogs & Other Reading********
+
+////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+////////////////////////////////////////////////////////////////////////////
+EXPRESS.JS RESOURCES
+
+
+
+********Blogs & Other Reading********
+
+////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+////////////////////////////////////////////////////////////////////////////
+ANGULAR.JS RESOURCES
+
+
+
+********Blogs & Other Reading********
+
+////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+////////////////////////////////////////////////////////////////////////////
+MONGODB RESOURCES
+
+
+
+********Blogs & Other Reading********
+
+////////////////////////////////////////////////////////////////////////////
+
+
+
+
+////////////////////////////////////////////////////////////////////////////
+OTHER RESOURCES
+http://codepen.io/
+http://codeschool.com
+http://teamtreehouse.com
+http://jsbooks.revolunet.com/
+http://it-ebooks.info/
+http://addyosmani.com/blog/
+////////////////////////////////////////////////////////////////////////////
 
 
 
