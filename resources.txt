@@ -69,6 +69,8 @@ What is browser compatibility?
   - www.icanuse.com
   - quirksmode.org 
 
+What are polyfills and why would you use them?
+
 Why do you want to keep your html, css, and javaScript in separate files?
 
 
@@ -352,6 +354,20 @@ What is the Revealing Module Pattern?
 
 
 ********Blogs & Other Reading********
+
+
+////////////////////////////////////////////////////////////////////////////
+
+
+
+
+////////////////////////////////////////////////////////////////////////////
+*******AJAX********
+Before learning AJAX, you should have a good understanding of javaScript basics.
+
+What is AJAX?
+
+
 
 
 ////////////////////////////////////////////////////////////////////////////
