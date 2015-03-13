@@ -1,0 +1,83 @@
+body {
+  background-color: #DEB481;
+}
+
+.mainBody {
+  -webkit-column-count: 3;
+  -moz-column-count: 3;
+  column-gap: 40px;
+}
+
+p {
+  font-family: "arial";
+  font-size: 20px;
+  margin: 0 60px;
+  padding:0;
+}
+
+#header {
+  background-color:;
+  color:white;
+  text-align:center;
+  padding:5px;
+
+}
+#codecafe{
+  text-align:left;
+}
+
+#img{
+
+  text-align:center;
+  padding: 0 100px;
+}
+h1{
+  font-family: 'Ruda', sans-serif;
+  text-align:center;
+  color: #522F05;
+  paddin-left: 50px;
+  padding:5px;
+
+}
+
+nav{
+
+    background-color:#522F05;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;
+
+}
+
+li {
+  display: inline;
+  background-color:;
+
+}
+a{
+  text-decoration:none;
+  color: #522F05;
+}
+
+ #box{
+   width:80px;height:80px;display:none;background-color:#522F05;
+   }
+
+h3{
+  text-align:center;
+  color: #522F05;
+  paddin-left: 50px;
+  padding:5px;
+
+}
+
+
+
+#footer {
+  background-color:#522F05;
+  color:white;
+  clear:both;
+  text-align:center;
+  padding:5px;
+}
